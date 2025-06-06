@@ -1,4 +1,4 @@
-# 🎬 Movie Catalog Analysis (Final Project)
+# 🎬 Movie Catalog Analysis
 
 📌 *Note: This report is written entirely in Spanish.*
 
